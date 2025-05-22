@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public interface IDrawable {
+public interface IDrawable { //contract
+    void draw();// capability
 }
